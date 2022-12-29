@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-main void ()
+void main ()
 {
   printf("This is solomon first c file.");
-  return (0);
 }
